@@ -20,11 +20,13 @@ app = Flask(__name__)
 
 
 # In[4]:
-
-
 @app.route('/')
 def hello_world():
-    return 'Hello world'
+	return 'Hello world'
+
+@app.route('/motivational')
+def skill_two():
+    return 'I Can Do This'
 
 
 # In[5]:
