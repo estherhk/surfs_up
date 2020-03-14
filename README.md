@@ -15,12 +15,12 @@ An analysis was conducted for investor W.Avy to project information such as prec
 Two statistical data were ran to show key statisticals: 1) every year for the month of June's temperature 2) year 2017 month of June's temperature
 
 ### Every Year Data
-<Screenshot>
+<img width=“500” alt=“” src="https://github.com/estherhk/surfs_up/blob/master/june_years.png">
 
 The image shows that in the month of June for every year, there is a count of 1,7000 days in the dataset, a mean of 74.94 for weather temperature, with a min of 64 degrees and a max of 85 degrees.
 
 ### Year 2017 Data
-<Screenshot>
+<img width=“500” alt=“” src="https://github.com/estherhk/surfs_up/blob/master/june_one.png">
 
 The image shows that in the month of June for 2017, there is a count of 191 days in the dataset, a mean of 77.22 for weather temperature, with a min of 71 degrees and a max of 83 degrees.
 
@@ -28,12 +28,13 @@ The image shows that in the month of June for 2017, there is a count of 191 days
 Two statistical data were ran to show key statisticals: 1) every year for the month of Decembers's temperature 2) year 2016 month of December's temperature
 
 ### Every Year Data
-<Screenshot>
+<img width=“500” alt=“” src="https://github.com/estherhk/surfs_up/blob/master/dec_years.png">
+  
 
 The image shows that in the month of December for every year, there is a count of 1,517 days in the dataset, a mean of 71.04 for weather temperature, with a min of 56 degrees and a max of 83 degrees.
   
 ### Year 2016 Data
-<Screenshot>
+<img width=“500” alt=“” src="https://github.com/estherhk/surfs_up/blob/master/dec_one.png">
   
 The image shows that in the month of December for 2016, there is a count of 200 days in the dataset, a mean of 71.13 for weather temperature, with a min of 60 degrees and a max of 78 degrees.    
 
